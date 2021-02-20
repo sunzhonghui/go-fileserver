@@ -1,5 +1,0 @@
-0322f80918d593541d4165d050a9f87b9778fd70b731385e6b94d2a51cdbfa34  go-fileserver_v0.0.0-next_Linux_i386.tar.gz
-9968682fb1bfeb2430f8558386067e21de6e24aa63068bb48ed0aed1d46b46b7  go-fileserver_v0.0.0-next_Linux_x86_64.tar.gz
-babd51c749142e35d2920760e3000367d3096cad866e23f059c7ca33f482ab71  go-fileserver_v0.0.0-next_Darwin_x86_64.tar.gz
-d45ccc00f6623fb2616172a64a2297dea30a48f5d169906f4f0a18de28d17f0a  go-fileserver_v0.0.0-next_Windows_i386.tar.gz
-e96027988c79021bfd0e0c4f47232d24c5408c59e69be64a734a2b7a33348b01  go-fileserver_v0.0.0-next_Windows_x86_64.tar.gz
